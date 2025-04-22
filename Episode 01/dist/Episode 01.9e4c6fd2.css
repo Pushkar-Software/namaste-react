@@ -1,0 +1,8 @@
+#parent {
+  color: red;
+}
+
+#parent:last-child {
+  color: green;
+}
+/*# sourceMappingURL=Episode 01.9e4c6fd2.css.map */
